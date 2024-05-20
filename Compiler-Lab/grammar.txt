@@ -1,0 +1,6 @@
+5
+P=i|c|nTS
+Q=P|aS|bScST
+R=b|e
+S=c|Rn|e
+T=RSq

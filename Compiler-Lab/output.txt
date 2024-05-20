@@ -1,0 +1,5 @@
+First of P: i, 
+First of Q: i, a, 
+First of R: b, 
+First of S: c, 
+First of T: b, c, q, 
